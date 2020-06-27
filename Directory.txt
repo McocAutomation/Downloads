@@ -1,4 +1,4 @@
 Arena.ate,r
 Quest.ate,r
 Updater.ate,r
-Test/Test.txt,n
+/Test/Test.txt,n
