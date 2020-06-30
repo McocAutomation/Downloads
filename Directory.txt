@@ -1,3 +1,6 @@
 Arena.ate,r
 Quest.ate,r
 Updater.ate,r
+/Images/Arenas_iPhone.png,n
+/Images/Arenas_Plus.png,n
+/Images/Arenas_SE.png,n
