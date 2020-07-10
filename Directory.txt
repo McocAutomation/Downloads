@@ -1,6 +1,8 @@
 Scripts/MCOC_Bots/Arena.ate,r
 Scripts/MCOC_Bots/Quest.ate,r
 Scripts/MCOC_Bots/Updater.ate,r
+Scripts/MCOC_Bots/AutoRecovery.deb,n
 Scripts/MCOC_Bots/Images/Arenas_iPhone.png,n
 Scripts/MCOC_Bots/Images/Arenas_Plus.png,n
 Scripts/MCOC_Bots/Images/Arenas_SE.png,n
+Library/recovery.txt,n
