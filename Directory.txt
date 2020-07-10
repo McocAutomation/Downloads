@@ -1,6 +1,6 @@
-Arena.ate,r
-Quest.ate,r
-Updater.ate,r
-/Images/Arenas_iPhone.png,n
-/Images/Arenas_Plus.png,n
-/Images/Arenas_SE.png,n
+Scripts/MCOC_Bots/Arena.ate,r
+Scripts/MCOC_Bots/Quest.ate,r
+Scripts/MCOC_Bots/Updater.ate,r
+Scripts/MCOC_Bots/Images/Arenas_iPhone.png,n
+Scripts/MCOC_Bots/Images/Arenas_Plus.png,n
+Scripts/MCOC_Bots/Images/Arenas_SE.png,n
