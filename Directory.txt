@@ -5,4 +5,7 @@ Scripts/MCOC_Bots/AutoRecovery.deb,n
 Scripts/MCOC_Bots/Images/Arenas_iPhone.png,n
 Scripts/MCOC_Bots/Images/Arenas_Plus.png,n
 Scripts/MCOC_Bots/Images/Arenas_SE.png,n
+Scripts/MCOC_Bots/Images/FightPause_iPhone.png,n
+Scripts/MCOC_Bots/Images/FightPause_Plus.png,n
+Scripts/MCOC_Bots/Images/FightPause_SE.png,n
 Library/recovery.txt,n
