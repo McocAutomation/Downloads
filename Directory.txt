@@ -8,4 +8,7 @@ Scripts/MCOC_Bots/Images/Arenas_SE.png,n
 Scripts/MCOC_Bots/Images/FightPause_iPhone.png,n
 Scripts/MCOC_Bots/Images/FightPause_Plus.png,n
 Scripts/MCOC_Bots/Images/FightPause_SE.png,n
+Scripts/MCOC_Bots/Images/Reconnect_iPhone.png,n
+Scripts/MCOC_Bots/Images/Reconnect_Plus.png,n
+Scripts/MCOC_Bots/Images/Reconnect_SE.png,n
 Library/recovery.txt,n
