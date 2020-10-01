@@ -11,4 +11,7 @@ Scripts/MCOC_Bots/Images/FightPause_SE.png,n
 Scripts/MCOC_Bots/Images/Reconnect_iPhone.png,n
 Scripts/MCOC_Bots/Images/Reconnect_Plus.png,n
 Scripts/MCOC_Bots/Images/Reconnect_SE.png,n
+Scripts/MCOC_Bots/Images/Profile_iPhone.png,n
+Scripts/MCOC_Bots/Images/Profile_Plus.png,n
+Scripts/MCOC_Bots/Images/Profile_SE.png,n
 Library/recovery.txt,n
