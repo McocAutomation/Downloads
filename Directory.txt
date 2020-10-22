@@ -14,4 +14,10 @@ Scripts/MCOC_Bots/Images/Reconnect_SE.png,n
 Scripts/MCOC_Bots/Images/Profile_iPhone.png,n
 Scripts/MCOC_Bots/Images/Profile_Plus.png,n
 Scripts/MCOC_Bots/Images/Profile_SE.png,n
+Scripts/MCOC_Bots/Images/ChampHelp_iPhone.png,n
+Scripts/MCOC_Bots/Images/ChampHelp_Plus.png,n
+Scripts/MCOC_Bots/Images/ChampHelp_SE.png,n
+Scripts/MCOC_Bots/Images/ChampCooldown_iPhone.png,n
+Scripts/MCOC_Bots/Images/ChampCooldown_Plus.png,n
+Scripts/MCOC_Bots/Images/ChampCooldown_SE.png,n
 Library/recovery.txt,n
