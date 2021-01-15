@@ -1,4 +1,5 @@
 Scripts/MCOC_Bots/Arena.ate,r
+Scripts/MCOC_Bots/Arena-Beta.ate,r
 Scripts/MCOC_Bots/Quest.ate,r
 Scripts/MCOC_Bots/Updater.ate,r
 Scripts/MCOC_Bots/AutoRecovery.deb,n
